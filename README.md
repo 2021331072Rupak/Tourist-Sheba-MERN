@@ -18,7 +18,7 @@ Browse travel circuits with detailed information.
 Book travel tours with ease.  
 Search for trips based on specific criteria.  
 User authentication and profile management.  
-Leave reviews for tours.  
+Leave reviews for tours. 
 
 
 
